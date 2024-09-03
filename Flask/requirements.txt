@@ -2,7 +2,6 @@ absl-py==2.1.0
 blinker==1.8.2
 click==8.1.7
 colorama==0.4.6
-dlib @ file:///C:/Users/Ravi%20Paliwal/Desktop/Flask/dlib-19.24.2-cp312-cp312-win_amd64.whl#sha256=df9a383c4e54c9907b22a15463d526b3daf6cf7bc12ec59495a41c7ba91de93e
 face-recognition==1.3.0
 face_recognition_models==0.3.0
 Flask==3.0.3
